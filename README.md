@@ -90,11 +90,3 @@ Contributions are welcome\! If you have suggestions for improvements or want to 
 3.  **Commit your Changes** (`git commit -m 'Add some NewConverter'`)
 4.  **Push to the Branch** (`git push origin feature/NewConverter`)
 5.  **Open a Pull Request**
-
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE.md` file for details (you can create this file if you wish).
-
-``` 
- 
-```
